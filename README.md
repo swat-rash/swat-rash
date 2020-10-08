@@ -21,7 +21,7 @@
 -->
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning Kubernetes,
+- 🌱 I’m currently learning Docker,Kubernetes.
 - 💬 Ask me about JAVA, Kotlin and development frameworks like SpringBoot,RatPack, DropWizard,etc.
 - 📫 How to reach me: swatrash@gmail.com
 </p><h2 align='center'>Connect with me  📫 </h2>
