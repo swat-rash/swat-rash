@@ -20,9 +20,9 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning Docker,Kubernetes.
-- 💬 Ask me about JAVA, Kotlin, Node.js and development frameworks like SpringBoot,RatPack, DropWizard,etc.
+- 🔭 Currently working as a Lead Software Developer(Backend).
+- 🌱 Currently learning Docker,Kubernetes.
+- 💬 Ask me about Vert.x, JAVA, Kotlin, Node.js and development frameworks like SpringBoot,RatPack, DropWizard,etc.
 - 📫 How to reach me: swatrash@gmail.com
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
