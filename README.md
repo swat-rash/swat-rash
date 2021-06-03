@@ -21,8 +21,8 @@
 -->
 
 - 🔭 Currently working as a Lead Software Developer(Backend).
-- 🌱 Currently learning Docker,Kubernetes.
-- 💬 Ask me about Vert.x, JAVA, Kotlin, Node.js and development frameworks like SpringBoot,RatPack, DropWizard,etc.
+- 🌱 Getting my hands dirty with Docker,Kubernetes.
+- 💬 Ask me about JAVA, Kotlin, Node.js and development frameworks like Vert.x, SpringBoot, RatPack, DropWizard, etc.
 - 📫 How to reach me: swatrash@gmail.com
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
