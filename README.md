@@ -27,7 +27,7 @@
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
  <a href = https://github.com/swat-rash target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/swati-rashmi-bbb80688/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://www.linkedin.com/in/swat-rash/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <!-- <a href = https://medium.com/<user-name> target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a>  -->
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=swatrash@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
 <!-- <a href = https://stackoverflow.com/users/<user-name> target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a> -->
